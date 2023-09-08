@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="13533" systemVersion="17B48" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="CoreDataModel" representedClassName="CoreDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="num0" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="num1" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="str0" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="str1" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="coredatamodel" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="CoreDataModel" inverseName="coredatamodel" inverseEntity="CoreDataModel" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="CoreDataModel" positionX="-54" positionY="-9" width="128" height="120"/>
+    </elements>
+</model>
